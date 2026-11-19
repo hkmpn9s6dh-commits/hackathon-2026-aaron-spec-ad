@@ -1,0 +1,98 @@
+{
+  "snowfield": {
+    "raw": "Cinematic_wide_shot_on_the_wes_2026-11-19T10-25-48.png",
+    "raw_sha256": "20d47e25288921b0eb69219a45a218ac0413204bd17794c52c67d665fc6a16a6",
+    "plate_sha256": "d1f32f7669423df07a5d44da179e5f053e3f1adcd3d540f849acae9f20b270d1",
+    "watermark_box": [
+      1392,
+      942,
+      1536,
+      1024
+    ],
+    "crop_offset": 0.35,
+    "size": [
+      2400,
+      1350
+    ]
+  },
+  "snow-crystal": {
+    "raw": "Extreme_macro_photograph__one__2026-11-19T10-24-07.png",
+    "raw_sha256": "eaef9ffa7eb8528780353ab9474581c66037099eb6bb15cf0294125c94faa96b",
+    "plate_sha256": "aec50ca4f08e25bd1a3e2b489fa420ca9960d627f48fe2bc823f38396b884874",
+    "watermark_box": [
+      1392,
+      942,
+      1536,
+      1024
+    ],
+    "crop_offset": 0.4,
+    "size": [
+      2400,
+      1350
+    ]
+  },
+  "fissure": {
+    "raw": "Cinematic_shot_deep_inside_a_v_2026-11-19T10-23-05.png",
+    "raw_sha256": "f2629530cb55d838b43afbf1f9269b3a27247c1d6fcf559835ae3c3b7cc789e8",
+    "plate_sha256": "0c2c7e28690ce2e1f6b462e32b7e2407abedf07d63f33f46ca728d3abde274b2",
+    "watermark_box": [
+      1392,
+      942,
+      1536,
+      1024
+    ],
+    "crop_offset": 0.3,
+    "size": [
+      2400,
+      1350
+    ]
+  },
+  "rock-film": {
+    "raw": "Extreme_macro_photograph_of_a__2026-11-19T10-24-07.png",
+    "raw_sha256": "7653f16b491afc72820b5cf3d1ac4f9cc50182878a1accdf4421ee4d911729e0",
+    "plate_sha256": "b64f36811d1fb0aeae5e845afd6629fb75e9f57d562be3197af7b44735c9b718",
+    "watermark_box": [
+      1392,
+      942,
+      1536,
+      1024
+    ],
+    "crop_offset": 0.45,
+    "size": [
+      2400,
+      1350
+    ]
+  },
+  "spring": {
+    "raw": "Cinematic_photograph_of_a_cold_2026-11-19T10-24-07.png",
+    "raw_sha256": "94c3b1b86b761c8ada3924873147bc323be5dba6a24d45fd6b04338b7e9a59e5",
+    "plate_sha256": "99935f35b5ff05c75e024da22d4bd4ffb316298484b3ef755deb3862cbbbac56",
+    "watermark_box": [
+      1392,
+      942,
+      1536,
+      1024
+    ],
+    "crop_offset": 1.0,
+    "size": [
+      2400,
+      1350
+    ]
+  },
+  "bottle": {
+    "raw": "Cinematic_product_photograph___2026-11-19T10-23-04.png",
+    "raw_sha256": "40704e9ba23a378cbaa644f33636f2566347bf083f15504d4e141110c0fc4e17",
+    "plate_sha256": "246f57adc5242ceb191a29406a83febce82785f0575e79067d864aeba4aa6cd7",
+    "watermark_box": [
+      1392,
+      942,
+      1536,
+      1024
+    ],
+    "crop_offset": 0.65,
+    "size": [
+      2400,
+      1350
+    ]
+  }
+}

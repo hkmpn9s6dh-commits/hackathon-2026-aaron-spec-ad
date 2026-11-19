@@ -1,0 +1,7 @@
+# 中间产物
+build/
+__pycache__/
+*.pyc
+
+# 成片与声轨：可由 verify.sh 重建，不进 Git（site/media 里那份是给 Pages 的）
+out/
