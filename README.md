@@ -22,7 +22,7 @@ python scripts/render.py --from 0 --to 240 --out build/seg0.mp4
 python scripts/render.py --from 240 --to 480 --out build/seg1.mp4
 python scripts/render.py --from 480 --to 720 --out build/seg2.mp4
 python scripts/assemble.py      # 拼接 + 混流 + 写 out/manifest.json
-python scripts/verify.py        # 68 条断言
+python scripts/verify.py        # 73 条断言
 ```
 
 或一条：

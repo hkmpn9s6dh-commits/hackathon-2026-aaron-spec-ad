@@ -5,12 +5,12 @@
   [A] 编码 h264 High / yuv420p                               PASS  h264 High yuv420p
   [A] 帧数 = 720                                             PASS  720
   [A] 音轨 aac 48000 2ch                                     PASS  aac 48000 2
-  [A] 码率 6–20 Mbps                                         PASS  11.1 Mbps
-  [A] 文件 > 10 MB                                           PASS  41.7 MB
+  [A] 码率 6–20 Mbps                                         PASS  10.8 Mbps
+  [A] 文件 > 10 MB                                           PASS  40.6 MB
   [A] 时间轴覆盖 = 30.000 s                                     PASS  30.0000
 [B]
   [B] 整体响度 -16.0 ±0.5 LUFS                                 PASS  -16.0
-  [B] 真峰 ≤ -1.0 dBTP                                       PASS  -2.3
+  [B] 真峰 ≤ -1.0 dBTP                                       PASS  -1.5
   [B] 有声（不是静音）                                             PASS  -16.0 LUFS
 [C]
   [C] 安全区 C1「长白山西坡」                                        PASS  box=(150,794,430,902)
@@ -22,16 +22,20 @@
   [C] 落在镜头 S03 内 C2                                        PASS  8.10–11.85 vs 7.20–12.20
   [C] 文案有出处 C2                                             PASS  
   [C] 安全区 C3「三十到六十年」                                       PASS  box=(150,784,525,904)
-  [C] 停留 ≥ 2.0 s C3                                        PASS  4.70 s
-  [C] 落在镜头 S04 内 C3                                        PASS  13.20–17.90 vs 12.20–18.60
+  [C] 停留 ≥ 2.0 s C3                                        PASS  3.25 s
+  [C] 落在镜头 S04 内 C3                                        PASS  12.60–15.85 vs 12.20–16.20
   [C] 文案有出处 C3                                             PASS  
   [C] 安全区 C4「恒温七度」                                         PASS  box=(150,794,374,902)
-  [C] 停留 ≥ 2.0 s C4                                        PASS  3.50 s
-  [C] 落在镜头 S05 内 C4                                        PASS  19.60–23.10 vs 18.60–23.40
+  [C] 停留 ≥ 2.0 s C4                                        PASS  3.90 s
+  [C] 落在镜头 S05 内 C4                                        PASS  17.00–20.90 vs 16.10–21.40
   [C] 文案有出处 C4                                             PASS  
+  [C] 安全区 C6「农夫山泉 · 长」                                     PASS  box=(150,810,514,898)
+  [C] 停留 ≥ 2.0 s C6                                        PASS  2.00 s
+  [C] 落在镜头 S06 内 C6                                        PASS  21.55–23.55 vs 21.30–27.00
+  [C] 文案有出处 C6                                             PASS  
   [C] 安全区 C5「你喝到的，是三十」                                     PASS  box=(565,904,1353,987)
-  [C] 停留 ≥ 2.0 s C5                                        PASS  2.00 s
-  [C] 落在镜头 S06 内 C5                                        PASS  25.20–27.20 vs 23.40–27.40
+  [C] 停留 ≥ 2.0 s C5                                        PASS  2.95 s
+  [C] 落在镜头 S06 内 C5                                        PASS  23.75–26.70 vs 21.30–27.00
   [C] 文案有出处 C5                                             PASS  
   [C] 卡片之间不重叠                                              PASS  
   [C] 末屏 brand 在安全区内                                       PASS  box=(150, 748, 754, 832)
@@ -40,13 +44,14 @@
 [D]
   [D] 字可见 C1（对比≥3.0，亮像素≥300）                               PASS  ratio=10.4 bright=1772
   [D] 字可见 C2（对比≥3.0，亮像素≥300）                               PASS  ratio=9.6 bright=2193
-  [D] 字可见 C3（对比≥3.0，亮像素≥300）                               PASS  ratio=6.0 bright=2069
-  [D] 字可见 C4（对比≥3.0，亮像素≥300）                               PASS  ratio=8.7 bright=1606
-  [D] 字可见 C5（对比≥3.0，亮像素≥300）                               PASS  ratio=7.0 bright=5453
+  [D] 字可见 C3（对比≥3.0，亮像素≥300）                               PASS  ratio=6.1 bright=2063
+  [D] 字可见 C4（对比≥3.0，亮像素≥300）                               PASS  ratio=8.9 bright=1602
+  [D] 字可见 C6（对比≥3.0，亮像素≥300）                               PASS  ratio=9.0 bright=1808
+  [D] 字可见 C5（对比≥3.0，亮像素≥300）                               PASS  ratio=7.1 bright=5455
 [E]
-  [E] 末屏 brand 可见                                          PASS  ratio=15.6 bright=4797 (need 400)
-  [E] 末屏 slogan 可见                                         PASS  ratio=12.5 bright=1234 (need 200)
-  [E] 末屏 disclosure 可见                                     PASS  ratio=9.8 bright=75 (need 40)
+  [E] 末屏 brand 可见                                          PASS  ratio=15.1 bright=4780 (need 400)
+  [E] 末屏 slogan 可见                                         PASS  ratio=12.7 bright=1230 (need 200)
+  [E] 末屏 disclosure 可见                                     PASS  ratio=9.8 bright=74 (need 40)
   [E] 末屏有品牌全称                                              PASS  农夫山泉 · 长白雪
   [E] 末屏有 AI 标注                                            PASS  水源地影像为 AI 生成示意
   [E] 末屏有品牌口号                                              PASS  
@@ -54,16 +59,16 @@
   [F] 无人物面部 t=1.0s（肤色像素 <1.0%）                             PASS  0.0000
   [F] 无人物面部 t=5.0s（肤色像素 <1.0%）                             PASS  0.0054
   [F] 无人物面部 t=9.0s（肤色像素 <1.0%）                             PASS  0.0000
-  [F] 无人物面部 t=13.0s（肤色像素 <1.0%）                            PASS  0.0010
-  [F] 无人物面部 t=17.0s（肤色像素 <1.0%）                            PASS  0.0012
+  [F] 无人物面部 t=13.0s（肤色像素 <1.0%）                            PASS  0.0009
+  [F] 无人物面部 t=17.0s（肤色像素 <1.0%）                            PASS  0.0000
   [F] 无人物面部 t=21.0s（肤色像素 <1.0%）                            PASS  0.0001
-  [F] 无人物面部 t=25.0s（肤色像素 <1.0%）                            PASS  0.0002
+  [F] 无人物面部 t=25.0s（肤色像素 <1.0%）                            PASS  0.0003
   [F] 无人物面部 t=28.0s（肤色像素 <1.0%）                            PASS  0.0000
   [F] 无人物面部 t=29.5s（肤色像素 <1.0%）                            PASS  0.0000
   [F] 开场 0.15s 不是死黑（平均亮度 ≥0.06）                            PASS  0.353
   [F] 开场没有连续 3 帧全黑                                         PASS  连续暗帧=0
 [G]
-  [G] 同帧两次渲染逐字节相同                                          PASS  f54ba5134bf578e9
+  [G] 同帧两次渲染逐字节相同                                          PASS  e0f30fc014474c2c
   [G] 相邻帧不同（不是静帧幻灯片）                                       PASS  
   [G] 六张图版与 manifest 的 sha256 一致                           PASS  
   [G] 分镜用到的图版都在                                            PASS  
@@ -74,4 +79,4 @@
   [G] 无水印残留 spring                                         PASS  edge 0.9 vs 0.2
   [G] 无水印残留 bottle                                         PASS  edge 1.2 vs 3.3
 
-合计 68 条，失败 0 条
+合计 73 条，失败 0 条

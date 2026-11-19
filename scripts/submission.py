@@ -127,7 +127,7 @@ def pipeline():
     bx(870, 660, 330, 150, "assemble.py", [
         "concat + mux", "→ thirty-years.mp4"])
     bx(470, 660, 330, 150, "verify.py", [
-        "68 assertions", "exit 1 on any failure"])
+        "73 assertions", "exit 1 on any failure"])
     bx(70, 660, 330, 150, "report.py", [
         "storyboard generated", "from story.py (--check)"])
     bx(1270, 660, 330, 150, "site / submission", [

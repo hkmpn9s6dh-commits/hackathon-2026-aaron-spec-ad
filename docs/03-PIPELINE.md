@@ -37,7 +37,7 @@
                                         │
                      ┌──────────────────┴─────────────────┐
                      ▼                                    ▼
-              verify.py（68 条断言）              site/ → GitHub Pages
+              verify.py（73 条断言）              site/ → GitHub Pages
 ```
 
 ## 每一层为什么这么切

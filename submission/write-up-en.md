@@ -46,7 +46,7 @@ kind of workflow AARON treats as work in its own right.
 ## The results
 
 - 30.000 s / 1920×1080 / 24 fps / H.264 + AAC / −16 LUFS / 41.7 MB
-- 68 of 68 assertions pass (`python scripts/verify.py`)
+- 68 of 73 assertions pass (`python scripts/verify.py`)
 - A fresh clone rebuilds the film from the README alone (`proof/clone-verify.log`)
 - One continuous fall; five semantic layers (outside / entering / inside time / emerging / product)
   separated by **colour temperature** rather than by cuts

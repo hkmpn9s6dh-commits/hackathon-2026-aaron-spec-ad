@@ -101,7 +101,7 @@ def main():
 </video>
 <div class="meta">
   <span>30.000 s</span><span>1920×1080</span><span>24 fps</span>
-  <span>−16 LUFS</span><span>68 assertions</span><span>no stock footage</span>
+  <span>−16 LUFS</span><span>73 assertions</span><span>no stock footage</span>
 </div>
 
 <section>
